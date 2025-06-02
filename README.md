@@ -26,7 +26,7 @@ Estou constantemente explorando novas tecnologias e aperfeiçoando minhas habili
 
 ## 📬 Como Me Encontrar
 📧 Email: ryanvicd2112@gmail.com  
-🔗 LinkedIn:(https://www.linkedin.com/in/ryanvictorsd/)
+🔗 LinkedIn:https://www.linkedin.com/in/ryanvictorsd/
 
 | GitHub Stats | Linguagens Mais Usadas |
 |-------------|---------------------|
