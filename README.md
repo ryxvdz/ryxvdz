@@ -22,7 +22,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência 
 Busco criar soluções tecnológicas intuitivas, acessíveis e eficientes. Me interesso por projetos que envolvam **sistemas web**, **gestão de dados** e **automação de processos**, sempre focando na usabilidade e desempenho.
 
 ## 🚀 Sempre Aprendendo!
-Estou constantemente explorando novas tecnologias e aperfeiçoando minhas habilidades. No momento, estou estudando **React Native para aprimorar meu desenvolvimento Mobile**.
+Estou constantemente explorando novas tecnologias e aperfeiçoando minhas habilidades. No momento, estou estudando **React Native para aprimorar minhas stacks em desenvolvimento Mobile**.
 
 ## 📬 Como Me Encontrar
 📧 Email: ryanvicd2112@gmail.com  
