@@ -26,7 +26,13 @@ Estou constantemente explorando novas tecnologias e aperfeiçoando minhas habili
 
 ## 📬 Como Me Encontrar
 📧 Email: ryanvicd2112@gmail.com  
-🔗 LinkedIn:(https://www.linkedin.com/in/ryanvictorsd/)  
+🔗 LinkedIn:(https://www.linkedin.com/in/ryanvictorsd/)
+
+| GitHub Stats | Linguagens Mais Usadas |
+|-------------|---------------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryxvdz&show_icons=true&theme=dracula&card_width=450) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryxvdz&layout=compact&theme=dracula&card_width=450) |
+
+
  
 
 
